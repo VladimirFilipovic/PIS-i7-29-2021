@@ -1,0 +1,25 @@
+Create table public."Hipodrome" (
+	id uuid PRIMARY KEY DEFAULT uuid_generate_v4(),
+	name varchar NOT NULL,
+	location geography NOT NULL
+)
+
+INSERT INTO public."Hipodrome" (name, location)
+VALUES
+    ('Hipodrom Beograd', ST_GeomFromEWKT('SRID=4326; POINT(20.425537502578162 44.78829773161488)')),
+    ('Hipodrom Pančevo', ST_GeomFromEWKT('SRID=4326; POINT(20.67937667534359 44.87316388624769)')),
+    ('Hipodrom Šabac', ST_GeomFromEWKT('SRID=4326; POINT(19.669101705888842 44.79059240160565)')),
+    ('Hipodrom Šabac 2', ST_GeomFromEWKT('SRID=4326; POINT(19.674605910671165 44.76560910183947)')),
+    ('Hipodrom Žabalj', ST_GeomFromEWKT('SRID=4326; POINT(20.08635852180521 45.38148225009375)')),
+    ('Hipodrom KK Mačvanin', ST_GeomFromEWKT('SRID=4326; POINT(19.47209021668541 44.827335438220864)')),
+    ('Hipodrom Sremska Mitrovica', ST_GeomFromEWKT('SRID=4326; POINT(19.61021748487553 45.001789436049364)')),
+    ('Hipodrom Ruski krstur', ST_GeomFromEWKT('SRID=4326; POINT(19.426783653122524 45.63122013718319)')),
+    ('Hipodrom Liberty Beograd', ST_GeomFromEWKT('SRID=4326; POINT(20.41601299385645 44.795325918351345)')),
+    ('Hipodrom Sombor', ST_GeomFromEWKT('SRID=4326; POINT(19.12432865083649 45.78618401521016)')),
+    ('Hipodrom Požarevac', ST_GeomFromEWKT('SRID=4326; POINT(21.170697212466454 44.641821825090666)')),
+    ('Hipodrom Karađоrđevo', ST_GeomFromEWKT('SRID=4326; POINT(19.306619588797542 45.314979176504565)')),
+    ('Hipodrom Аda', ST_GeomFromEWKT('SRID=4326; POINT(20.148121685829647 45.81809056501158)'))
+	
+
+
+

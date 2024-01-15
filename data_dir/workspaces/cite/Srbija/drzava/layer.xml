@@ -1,0 +1,17 @@
+<layer>
+  <name>drzava</name>
+  <id>LayerInfoImpl--ffa5226:18aec0ae3f5:-7ff7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--ffa5226:18aec0ae3f5:-7ff8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-10-05 05:53:04.424 UTC</dateCreated>
+  <dateModified>2023-10-05 05:53:48.318 UTC</dateModified>
+</layer>

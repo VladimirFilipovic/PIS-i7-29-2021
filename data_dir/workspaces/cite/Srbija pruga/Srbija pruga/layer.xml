@@ -1,0 +1,17 @@
+<layer>
+  <name>Srbija pruga</name>
+  <id>LayerInfoImpl--ffa5226:18aec0ae3f5:-7ff1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--ffa5226:18aec0ae3f5:-7ff2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-10-05 06:01:24.774 UTC</dateCreated>
+  <dateModified>2023-10-07 17:33:16.90 UTC</dateModified>
+</layer>

@@ -1,0 +1,16 @@
+<layer>
+  <name>Cenej</name>
+  <id>LayerInfoImpl--896760f:18aa41705c8:-7ffe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--896760f:18aa41705c8:-7fff</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-17 17:01:43.18 UTC</dateCreated>
+</layer>

@@ -1,0 +1,68 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--a03bc10:18b03a96e83:-7ffe</id>
+  <name>eco_rezervat_prirode_p</name>
+  <nativeName>eco_rezervat_prirode_p</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--570ae188:124761b8d78:-7ff4</id>
+  </namespace>
+  <title>eco_rezervat_prirode_p</title>
+  <keywords>
+    <string>features</string>
+    <string>eco_rezervat_prirode_p</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;MGI / Balkans zone 7&quot;, &#xd;
+  GEOGCS[&quot;MGI&quot;, &#xd;
+    DATUM[&quot;Militar-Geographische Institut&quot;, &#xd;
+      SPHEROID[&quot;Bessel 1841&quot;, 6377397.155, 299.1528128, AUTHORITY[&quot;EPSG&quot;,&quot;7004&quot;]], &#xd;
+      TOWGS84[601.705, 84.263, 485.227, 4.7354, -1.3145, -5.393, -2.3887], &#xd;
+      AUTHORITY[&quot;EPSG&quot;,&quot;6312&quot;]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;4312&quot;]], &#xd;
+  PROJECTION[&quot;Transverse_Mercator&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9807&quot;]], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, 21.0], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 0.9999], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 7500000.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 0.0], &#xd;
+  UNIT[&quot;m&quot;, 1.0], &#xd;
+  AXIS[&quot;Easting&quot;, EAST], &#xd;
+  AXIS[&quot;Northing&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;31277&quot;]]</nativeCRS>
+  <srs>EPSG:31277</srs>
+  <nativeBoundingBox>
+    <minx>7330527.26975932</minx>
+    <maxx>7526643.51764638</maxx>
+    <miny>4796734.1989506</miny>
+    <maxy>5087903.75863484</maxy>
+    <crs class="projected">EPSG:31277</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>18.81370020445204</minx>
+    <maxx>21.341917273041226</maxx>
+    <miny>43.29594782526867</miny>
+    <maxy>45.93552168205166</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--a03bc10:18b03a96e83:-8000</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
